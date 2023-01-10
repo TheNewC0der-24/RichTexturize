@@ -30,7 +30,7 @@ npm install html-to-draftjs
 ## Hosted On
 |Netlify|
 |---| 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4d507d1a-8799-48ff-ac59-e1ddd60a1c2e/deploy-status)](https://app.netlify.com/sites/textonus/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e804b3e7-3076-4e79-818c-a88f9e3514e0/deploy-status)](https://app.netlify.com/sites/richtexturize/deploys)
 
 Hence, accessible to everyone & accessible anywhere.
 
@@ -39,7 +39,7 @@ Hence, accessible to everyone & accessible anywhere.
 
 ## Link
 ```
-
+https://richtexturize.netlify.app/
 ```
 
 --- 
