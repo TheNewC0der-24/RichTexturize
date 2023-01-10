@@ -1,29 +1,56 @@
-## Create Rich Text Editor in ReactJS
+<h1 align="center">RichTexturize</h1>
 
-In this Project, I'm going to show you how we can build rich text editor using React Draft WYSIWYG package. Using this library we can easily create a great text editor with only a few lines of code. This text editor provides a lot of features such as text decorations, font styles, formats, size, text colour,  emojis, lists also you can upload an image or embed any link.  Make sure you watch the whole video in order to understand how to use it.   
+## About
+It is a rich text editor using React Draft WYSIWYG package. Using this library we can easily create a great text editor with only a few lines of code. Also, it provides lot of feature to enhance your text.
 
-This project is done using below npm package.
-https://www.npmjs.com/package/react-draft-wysiwyg
+## Features
+* Text Decorations.
+* Can change Font Styles.
+* Formats Texts to **`Bold`**, *`Italics`*, etc.
+* Can change text size and text colour.
+* Able to insert emojis.
+* Also you can upload an image or embed any link.
 
-Watch Video Tutorial here!
-https://youtu.be/PDdZB83_Nrs
+## Built With 
+|React|[React Draft WYSIWYG](https://www.npmjs.com/package/react-draft-wysiwyg)|
+|---|---|
+
+## Installed Dependencies
+
+```
+# npm packages
+
+npm install react-draft-wysiwyg
+npm install draft-js
+npm i draftjs-to-html
+npm install html-to-draftjs
+```
+
+
+## Hosted On
+|Netlify|
+|---| 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d507d1a-8799-48ff-ac59-e1ddd60a1c2e/deploy-status)](https://app.netlify.com/sites/textonus/deploys)
+
+Hence, accessible to everyone & accessible anywhere.
+
+## Preview
+![image](https://github.com/TheNewC0der-24/RichTexturize/blob/master/Preview.png)
+
+## Link
+```
+
+```
+
+--- 
+<h3 align='center'>Hope you like this application :)</h3>
+<h4 align='center'>Show some ❤️ by giving ⭐ to this repository !!</h4>
 
 
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Instructions
 
-In the project directory, first run:
 
-### `npm install`
-
-For installing all the dependancies. 
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
