@@ -29,14 +29,16 @@
 }
 
 .App .editor {
-  width: 900px;
-  margin-left: 20%;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 50px;
-  border: 2px solid #282c34;
 }
 
 textarea {
-  width: 900px;
+  width: 100%;
   border: none;
   outline: none;
   font-size: 18px;
