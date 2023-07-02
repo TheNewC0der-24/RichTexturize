@@ -44,6 +44,11 @@ textarea {
   font-size: 18px;
 }
 
+.rdw-editor-main {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+}
+
 
 @keyframes App-logo-spin {
   from {
