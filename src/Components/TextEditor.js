@@ -27,6 +27,7 @@ export default class TextEditor extends Component {
           wrapperClassName="wrapperClassName"
           editorClassName="editorClassName"
           onEditorStateChange={this.onEditorStateChange}
+          placeholder="Write something here..."
         />
         <textarea
           disabled
